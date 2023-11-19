@@ -18,6 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NathalyStudio&icon=0&color=10)](https://visitcount.itsvg.in)
 # General chief at 3Xerries technology 😎😎
+3Xerries technology is a company that is founded by two brothers and awesome developer and I had the fortune to be part of the management board due to my expertise in fields like Shopify, e-commerce and administrative knowledge when it comes to run a business. Stay tunned because in the next coming months there will be many updates about that 😎
 ## 📑 Learning German and diving on building app for Shopify stores
 <!--  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
