@@ -25,4 +25,6 @@ I am a lifelong learner, which mean I am always looking for new things to learn.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
 
   <!-- here will go part of portfolio links I am going to add here portfolio link when is done and with the domain-->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+
+somewhere over here i need to put the portfolio link-->
