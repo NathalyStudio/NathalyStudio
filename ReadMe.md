@@ -22,7 +22,7 @@
 ## 📑 Learning German and diving on Astro with contentful 
 I am a lifelong learner, which mean I am always looking for new things to learn. Recently I found out astro and I am loving how easy is and how powerful, loading everything super fast and that can be easily integrated with CMS like contentful✨
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  anytime this week I will add -->
 
   <!-- here will go part of portfolio links I am going to add here portfolio link when is done and with the domain-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
