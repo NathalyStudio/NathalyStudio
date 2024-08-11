@@ -25,6 +25,6 @@ I am a lifelong learner, which mean I am always looking for new things to learn.
 ## Hey, want to know what I am doing right now? Go and check my <a href="https://nathalydev.com" target="_blank">portfolio</a> 
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  wow why i didn't saw this when i needed it??!!!
 
 somewhere over here i need to put the portfolio link-->
