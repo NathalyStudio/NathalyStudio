@@ -19,8 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=NathalyStudio&icon=0&color=10)](https://visitcount.itsvg.in)
 # General chief at 3Xerries technology 😎😎
 3Xerries technology is a company that is founded by two brothers and awesome developer and I had the fortune to be part of the management board due to my expertise in fields like Shopify, e-commerce and administrative knowledge when it comes to run a business. Stay tunned because in the next coming months there will be many updates about that 😎
-## 📑 Learning German and diving on Astro with contentful 
-I am a lifelong learner, which mean I am always looking for new things to learn. Recently I found out astro and I am loving how easy is and how powerful, loading everything super fast and that can be easily integrated with CMS like contentful✨
+## 📑 Learning German and diving on Prismic
+I am a lifelong learner, which mean I am always looking for new things to learn. I am in love of Prismic and the big amount of stuff that can be done there, so I am discovering all the cool stuff and learning a ton ✨
 
 ## Hey, want to know what I am doing right now? Go and check my <a href="https://nathalydev.com" target="_blank">portfolio</a> 
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
