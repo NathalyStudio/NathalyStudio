@@ -23,8 +23,10 @@
 I am a lifelong learner, which mean I am always looking for new things to learn. I am in love of Prismic and the big amount of stuff that can be done there, so I am discovering all the cool stuff and learning a ton ✨
 
 ## Hey, want to know what I am doing right now? Go and check my <a href="https://nathalydev.com" target="_blank">portfolio</a> 
+
+PS, I am in partner with someone super cool and building cool stuff, keep your eyes on my social so you be the first one to know what is the big announcement 😜
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  wow why i didn't saw this when i needed it??!!! Not sure that I want to add more information, well I do, but I am sure on what to write lol
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  wow why i didn't saw this
 
 k-->
