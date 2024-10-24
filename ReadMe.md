@@ -29,6 +29,6 @@ PS, I am in partner with someone super cool and building cool stuff, keep your e
 [PicPress](https://pic-press.web.app/), and more to come!!
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  wow why i didn't saw this
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  
 
 k-->
