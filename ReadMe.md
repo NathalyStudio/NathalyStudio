@@ -24,6 +24,9 @@ I am a lifelong learner, which mean I am always looking for new things to learn.
 
 ## Hey, want to know what I am doing right now? Go and check my <a href="https://nathalydev.com" target="_blank">portfolio</a> 
 
+
+PS, I am creating some videogames and a trading journal, keep in the loop and be the first to try it for free until it runs out the spots!!
+
 PS, I am in partner with someone super cool and building cool stuff, keep your eyes on my social so you be the first one to know what is the big announcement 😜
 
 [PicPress](https://pic-press.web.app/), and more to come!!
