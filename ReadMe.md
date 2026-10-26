@@ -30,7 +30,7 @@ PS, I am creating some videogames and a trading journal, keep in the loop and be
 
 PS, I am in partner with someone super cool and building cool stuff, keep your eyes on my social so you be the first one to know what is the big announcement 😜
 
-[PicPress](https://pic-press.web.app/), and more to come!!
+[PicPress](https://pic-press.web.app/), [NovaTrade Journal](https://www.novatradejournal.com) and more to come!!
 <!--  ## 💰 You can help me by Donating - I don't want donations, I want a position that paids a 1 million dollar each  month and doesn't have too much responsabilities. 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/nathaly05)  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  
